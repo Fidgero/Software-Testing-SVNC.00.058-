@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TriangleTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-03-04T14:43:19" hostname="DESKTOP-P67NANF" time="0.028">
+  <properties/>
+  <testcase name="Value of A is not in the range of permitted values." classname="org.example.TriangleTest" time="0.024"/>
+  <testcase name="Value of B is not in the range of permitted values." classname="org.example.TriangleTest" time="0.0"/>
+  <testcase name="Value of C is not in the range of permitted values." classname="org.example.TriangleTest" time="0.001"/>
+  <testcase name="NotATriangle" classname="org.example.TriangleTest" time="0.0"/>
+  <testcase name="Isosceles Triangle" classname="org.example.TriangleTest" time="0.0"/>
+  <testcase name="Scalene Triangle" classname="org.example.TriangleTest" time="0.001"/>
+  <testcase name="Equilateral Triangle" classname="org.example.TriangleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
