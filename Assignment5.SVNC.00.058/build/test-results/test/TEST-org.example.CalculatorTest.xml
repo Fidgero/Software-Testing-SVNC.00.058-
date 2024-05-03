@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-05-03T08:33:08" hostname="DESKTOP-P67NANF" time="0.031">
+  <properties/>
+  <testcase name="Addition of 2 numbers" classname="org.example.CalculatorTest" time="0.024"/>
+  <testcase name="Multiplication of 2 numbers" classname="org.example.CalculatorTest" time="0.0"/>
+  <testcase name="Square root of a number" classname="org.example.CalculatorTest" time="0.001"/>
+  <testcase name="Subtraction of 2 numbers" classname="org.example.CalculatorTest" time="0.001"/>
+  <testcase name="Division of 2 numbers" classname="org.example.CalculatorTest" time="0.001"/>
+  <testcase name="Power of a number" classname="org.example.CalculatorTest" time="0.0"/>
+  <testcase name="Division by zero" classname="org.example.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
